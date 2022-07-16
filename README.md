@@ -34,4 +34,4 @@ phpとMySQL/MariaDBを用いて車両見積もりサイト及び管理者用見�
 ログイン用：　login
 ```
 
-実装で使うファイルはstart.phpとsystemtop.phpの2種類です。
+実装で使うファイルはstart.phpとlogin.htmlの2種類です。(万が一login.htmlが動かなければsystemtop.phpからお願いします。)
